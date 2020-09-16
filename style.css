@@ -1,0 +1,28 @@
+body{
+ font-family: 'Roboto', sans-serif;
+ line-height: 2rem;
+ width: 950px;
+ margin-left: auto;
+ margin-right: auto;
+ border: solid 2px #ab3535;
+ padding: 1em;
+ border-radius: 10px;
+}
+
+h1, h2{
+ font-family: 'Merriweather', serif;
+ color: #cf542b;
+}
+
+h1{
+  font-size: 2.5rem;
+  margin-bottom: 0.75em;
+}
+
+h2{
+  font-size: 1.5rem;
+  margin-top: 1.5em;
+}
+li{
+  margin-bottom: 1em;
+}
