@@ -41,3 +41,54 @@ header button{
 p{
   margin-bottom: 1em;
 }
+
+nav{
+  background-color: #488551;
+  padding: 10px;
+  margin-bottom: 2em;
+}
+
+nav li{
+  display: inline;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+nav a{
+  color: #fff;
+  text-decoration: none;
+}
+
+nav a:hover{
+  color: #c7d93d;
+}
+
+.col{
+  width: 50%;
+}
+
+.col-left{
+  float: left;
+}
+
+.col-right{
+  float: right;
+}
+
+footer{
+  clear: both;
+}
+
+h2{
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
+h3{
+  font-weight: bold;
+}
+
+main{
+  margin-bottom: 1em;
+  overflow: auto;
+}
