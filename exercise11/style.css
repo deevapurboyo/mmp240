@@ -1,3 +1,9 @@
+nav li img{
+  float:right;
+  widht:15px;
+}
+
+
 nav ul{
   padding:0;
   list-style-type:none;
